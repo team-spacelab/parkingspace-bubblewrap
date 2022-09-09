@@ -1,0 +1,43 @@
+{
+  "packageId": "work.spacelab.parking.twa",
+  "host": "parking.spacelab.work",
+  "name": "파킹스페이스 - 환경을 생각하는 주차공간도우미",
+  "launcherName": "파킹스페이스",
+  "display": "standalone",
+  "themeColor": "#7648FA",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#7648FA",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://parking.spacelab.work/manifest-icon-512.maskable.png",
+  "maskableIconUrl": "https://parking.spacelab.work/manifest-icon-512.maskable.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/home/pmh/workspaces/spacelab/bubblewrap/android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "2",
+  "appVersionCode": 2,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://parking.spacelab.work/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {
+    "locationDelegation": {
+      "enabled": true
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "2"
+}
