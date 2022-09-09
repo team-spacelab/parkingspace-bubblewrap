@@ -1,1 +1,5 @@
 android.keystore
+manifest-checksum.txt
+*.apk
+*.abb
+
