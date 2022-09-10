@@ -1,5 +1,7 @@
 android.keystore
 manifest-checksum.txt
+app/build
 *.apk
-*.abb
+*.aab
+*.idsig
 

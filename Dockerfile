@@ -4,4 +4,6 @@ COPY * /app/
 
 WORKDIR /app
 
+RUN apk add openjdk11
+
 CMD ["sleep", "99999999999"]
