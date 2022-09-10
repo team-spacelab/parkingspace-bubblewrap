@@ -5,5 +5,6 @@ COPY * /app/
 WORKDIR /app
 
 RUN apk add openjdk11
+RUN apk add jq
 
 CMD ["sleep", "99999999999"]
