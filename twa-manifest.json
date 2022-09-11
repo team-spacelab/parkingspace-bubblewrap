@@ -16,7 +16,7 @@
   "maskableIconUrl": "https://parking.spacelab.work/manifest-icon-512.maskable.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
-    "path": "/home/pmh/workspaces/spacelab/bubblewrap/android.keystore",
+    "path": "./android.keystore",
     "alias": "android"
   },
   "appVersionName": "3",
